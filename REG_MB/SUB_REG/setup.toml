@@ -1,0 +1,13 @@
+[local]
+project_dir = "C:/Users/emmau/Documents/wtw-data-prep2_clone/REG_MB/SUB_REG"
+natdata_dir = "C:/Users/emmau/Documents/wtw-data-prep2_clone/Data/NAT_DATA_BRITE_20260525"
+aoi_shp = "prairiesMB.shp"
+punits = "aoi/pu_1km.tif"
+wtw_metadata = "wtw/metadata/wtw-metadata.csv"
+
+[wtw]
+project_name = "REG MB: Prairie Ecozone"
+file_name = "praimb"
+author = "Aspen Unger"
+email = "aspenunger@outlook.com"
+groups = "public"
