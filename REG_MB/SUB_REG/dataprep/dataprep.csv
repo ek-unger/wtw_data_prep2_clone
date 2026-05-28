@@ -1,0 +1,2 @@
+"conversion_ready_input","short_name","tif_output","unit","stat","cell_value","datatype","provenance"
+"full filepath to input data","10 characters or less name for variable","full filepath with extension to output tif","supported units: m2, ha, km2, m, km and count","supported stats: mean, max, min, sum, stdev, mode and area ","if stat is area, provide cell value to extract","supported types: raster, vector","national or regional"
