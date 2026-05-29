@@ -1,7 +1,7 @@
 [local]
 project_dir = "C:/Users/emmau/Documents/wtw-data-prep2_clone/REG_MB/SUB_REG"
 natdata_dir = "C:/Users/emmau/Documents/wtw-data-prep2_clone/Data/NAT_DATA_BRITE_20260525"
-aoi_shp = "prairiesMB.shp"
+aoi_shp = "ecoregion_89.shp"
 punits = "aoi/pu_1km.tif"
 wtw_metadata = "wtw/metadata/wtw-metadata.csv"
 
